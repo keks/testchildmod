@@ -1,4 +1,3 @@
-package main // import "github.com/keks/testchildmod"
+package child // import "github.com/keks/testchildmod"
 
-func main() {
-}
+var IsChild = true
